@@ -5,7 +5,7 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Welcome, friends"
+    Title: "Welcome, friends!"
     Content: "Welcome to my blog nook! If you want to contact me, feeling free to click on the following icon!"
   socialIcons:
     - name: github
@@ -18,7 +18,7 @@ params:
       url: "https://www.linkedin.com/in/liu-ives-92612a245/"
     - name: discord
       url: "https://discord.gg/cr5qVq3g"
-  # favicon = "/img/favicon.ico"
+  # favicon : "/img/favicon.ico"
 
 
   cover:
