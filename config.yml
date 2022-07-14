@@ -5,8 +5,8 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Welcome, friends!"
-    Content: "Welcome to my blog! If you want to contact me, feeling free to click on the following icon!"
+    Title: "Welcome, friends"
+    Content: "Welcome to my blog nook! If you want to contact me, feeling free to click on the following icon!"
   socialIcons:
     - name: github
       url: "https://github.com/IvesLiu1026"

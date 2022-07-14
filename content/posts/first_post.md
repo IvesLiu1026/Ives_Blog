@@ -9,5 +9,13 @@ draft: false
 tags: ["murmur tour", "南希肯恩"]
 categories: ["trip"]
 ---
+---
+# 一起走向大海吧
 
-# 大海
+<!-- ![Sunshine!](/img/cam_Ives.jpg) -->
+{{< figure src="/img/cam_Ives.jpg" width="300" >}}
+
+<!--more-->
+> Loving you was sunshine, safe and sound.
+
+- 陽光就這樣照了進來，七月初的台北，比想像的還要不溫馴許多。
