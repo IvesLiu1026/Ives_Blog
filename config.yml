@@ -1,11 +1,11 @@
 baseURL: "https://roaring-daffodil-240ffa.netlify.app"
 languageCode: en-us
-title: Ives' Hugo Site
+title: Ives Liu's Blog
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Hello, everyone!"
+    Title: "Welcome, friends!"
     Content: "Welcome to my blog! If you want to contact me, feeling free to click on the following icon!"
   socialIcons:
     - name: facebook 
