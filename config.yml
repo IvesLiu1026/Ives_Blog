@@ -1,0 +1,42 @@
+baseURL: ""
+languageCode: en-us
+title: Ives' Hugo Site
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hello, everyone!"
+    Content: "Welcome to my blog! If you want to contact me, feeling free to click on the following icon!"
+  socialIcons:
+    - name: facebook 
+      url: "https://www.facebook.com/profile.php?id=100008267281647"
+    - name: github
+      url: "https://github.com/IvesLiu1026"
+    - name: instagram
+      url: "https://www.instagram.com/iveees._/?theme=dark"
+
+  cover:
+    linkFullImages: true
+  
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+  
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Category
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/ 
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/ 
+      weight: 30
