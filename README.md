@@ -1,2 +1,2 @@
 # Ives_Blog
-## This is my own blog with Hugo
+## This is my blog with Hugo
