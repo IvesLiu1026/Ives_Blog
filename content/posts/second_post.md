@@ -1,7 +1,11 @@
 ---
-title: "Second Post"
-date: 2022-07-14T01:04:21+08:00
+title: "大一心得文"
+date: 2022-07-02T01:04:21+08:00
 draft: false
 ---
 
-# This is a heading one for Second
+# 生活
+# 社交
+# 課業
+# 修課
+# 反思

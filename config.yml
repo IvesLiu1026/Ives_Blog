@@ -8,12 +8,17 @@ params:
     Title: "Welcome, friends!"
     Content: "Welcome to my blog! If you want to contact me, feeling free to click on the following icon!"
   socialIcons:
-    - name: facebook 
-      url: "https://www.facebook.com/profile.php?id=100008267281647"
     - name: github
       url: "https://github.com/IvesLiu1026"
     - name: instagram
       url: "https://www.instagram.com/iveees._/?theme=dark"
+    - name: facebook 
+      url: "https://www.facebook.com/profile.php?id=100008267281647"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/liu-ives-92612a245/"
+    - name: discord
+      url: "https://discord.gg/cr5qVq3g"
+
 
   cover:
     linkFullImages: true
