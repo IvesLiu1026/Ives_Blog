@@ -18,6 +18,7 @@ params:
       url: "https://www.linkedin.com/in/liu-ives-92612a245/"
     - name: discord
       url: "https://discord.gg/cr5qVq3g"
+  # favicon = "/img/favicon.ico"
 
 
   cover:
@@ -33,15 +34,19 @@ params:
 
 menu:
   main:
-    - identifier: categories
-      name: Category
-      url: /categories/
+    - identifier: about
+      name: 😊About
+      url: /about/
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/ 
+    - identifier: categories
+      name: 📒Category
+      url: /categories/
       weight: 20
-    - identifier: archives
-      name: Archives
-      url: /archives/ 
+    - identifier: tags
+      name: 🏷️Tags
+      url: /tags/ 
       weight: 30
+    - identifier: archives
+      name: 💛Archives
+      url: /archives/ 
+      weight: 40
