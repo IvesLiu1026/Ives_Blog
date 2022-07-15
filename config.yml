@@ -24,13 +24,15 @@ params:
   cover:
     linkFullImages: true
   
-  ShowBreadCrumbs: true
+    ShowBreadCrumbs: true
 
-  ShowReadingTime: true
+    ShowReadingTime: true
 
-  ShowShareButtons: true
+    ShowShareButtons: true
   
-  ShowPostNavLinks: true
+    ShowPostNavLinks: true
+
+  TocSide: 'left'
 
 menu:
   main:

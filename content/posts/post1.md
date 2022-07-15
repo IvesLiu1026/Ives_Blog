@@ -8,12 +8,14 @@ draft: false
 #     caption: '好好看所以想說發一下'
 tags: ["murmur tour", "南希肯恩"]
 categories: ["trip"]
-arthur: IvesLiu
+author: IvesLiu
 ---
 ---
 # 一起走向大海吧
-<!-- ![Sunshine!](/img/cam_Ives.jpg) -->
-{{< figure src="/img/cam_Ives.jpg" width="300" >}}
+<!-- ![Sunshine!](/img/cam_Ives.jpg#center) -->
+{{<figure src="/img/cam_Ives.jpg" width="300">}}
+<!-- ![demo](/img/cam_Ives.jpg) -->
+
 
 <!--more-->
 > Loving you was sunshine, safe and sound.

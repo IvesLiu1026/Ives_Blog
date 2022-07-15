@@ -4,7 +4,7 @@ date: 2022-07-14T01:04:21+08:00
 draft: false
 tags: ["NYCU"]
 categories: ["NYCU"]
-arthur: IvesLiu
+author: IvesLiu
 ---
 
 <!--more-->
