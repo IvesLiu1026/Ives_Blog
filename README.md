@@ -1,2 +1,1 @@
-# Ives_Blog
-## This is my blog with Hugo
+# This is blog with Hugo framework on Netlify.
